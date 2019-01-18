@@ -1,0 +1,13 @@
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.exe.config
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.pdb
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.csprojAssemblyReference.cache
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.pdb
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.exe.config
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\bin\Release\Magic8BallServiceClient.pdb
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\Magic8BallWCFServiceHTTP\Magic8BallServiceClient\obj\Release\Magic8BallServiceClient.pdb

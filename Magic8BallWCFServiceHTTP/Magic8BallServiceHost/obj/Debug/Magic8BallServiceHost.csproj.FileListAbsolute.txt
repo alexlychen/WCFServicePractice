@@ -1,0 +1,11 @@
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallServiceHost.exe.config
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallServiceHost.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallServiceHost.pdb
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallWCFServiceHTTP.dll
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallWCFServiceHTTP.pdb
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\bin\Debug\Magic8BallWCFServiceHTTP.dll.config
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\obj\Debug\Magic8BallServiceHost.csprojAssemblyReference.cache
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\obj\Debug\Magic8BallServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\obj\Debug\Magic8BallServiceHost.csproj.CopyComplete
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\obj\Debug\Magic8BallServiceHost.exe
+C:\Users\Chen\Documents\Visual Studio 2017\Projects\CS7.NetCore2\DotNet_Core2_EF_Feature\Magic8BallWCFServiceHTTP\Magic8BallServiceHost\obj\Debug\Magic8BallServiceHost.pdb

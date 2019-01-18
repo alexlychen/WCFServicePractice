@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Magic8BallServiceHost.exe" version="1.0.0.0" publicKeyToken="c15661fd244df281" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Magic8BallServiceHost" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Magic8BallServiceHost.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magic8BallServiceHost.exe" size="6600">
+      <assemblyIdentity name="Magic8BallServiceHost" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3Fo/EVKpvYbKeEObpPMSwcwsKGD5z0zgcytBIwescW8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magic8BallWCFServiceHTTP.dll" size="5632">
+      <assemblyIdentity name="Magic8BallWCFServiceHTTP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>B9h8Ey2vq8jWLOF8UMMXa/qUDsgxH6Uu4xOOH7z2b9E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Magic8BallServiceHost.exe.config" size="1074">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zJsCRcl0z+gikR/iPl3VfHT41dNeFySdMR6PMRQuFhI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=NOTEBOOK\LChen153" issuerKeyHash="d52498c4173e41b08ca4091ad0e9f4ee10dd6bac" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5fawu2WMMfmeaVpXtkN1nvv43/A8InJ7gTHFgiyzK5U=</DigestValue></Reference></SignedInfo><SignatureValue>UcsURGbHHFbPTr59fKYkubjHE+8ciR0BB9sDqIxyZCMroGs7C+0xDDUl0z6n86kHbwMBf73aj9xSHkcw13TzSrCj7V29CHyQ1ioBcFtO28cM/9IhG0PH+lXK3bSHlyjIClpGOGyJ2veEdCf62I6UUtN+tYaGzOc2VF5TJD8xXYk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>q9OuAwrx7E+Kj0bvRPfPr46/UbNUxhSqsDVa2Uju+P1vkefm7G3NrZJUR1pnxwL1cD6IPM21mKF+j9ZXoHLuWqCfZPkvzrOWZiEEi4yRmaFB4rBlWcXHQcKsyxi0BVZDnnlavTxXqjXBeMCXRpROS9oE5UpSbryb75gSrsZpnRE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="952bb32c82c531817b72223cf0dff8fb9e7543b6575a699ef9318c65bbb0f6e5" Description="" Url=""><as:assemblyIdentity name="Magic8BallServiceHost.exe" version="1.0.0.0" publicKeyToken="c15661fd244df281" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NOTEBOOK\LChen153</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qBlUTEzQugpW3AvoTBuu8SOqIS01KLVT13L8Ip0Gi6o=</DigestValue></Reference></SignedInfo><SignatureValue>TXdlTJZsJKVfX9qaeebLG7lg/J4HFcXnoLDd5hIoFnQGYL5D2vOhYBe83er4nOtK3rPnKg9lQ0pR/H434JRv1jTyQ3ZmAxDXBhNXcI3HmtIOoilew6F1wmED/tTEnlNMavlOTOoDcx9u1XE75AOGf8s/jJYtoMcJcSxrO9zcWl0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>q9OuAwrx7E+Kj0bvRPfPr46/UbNUxhSqsDVa2Uju+P1vkefm7G3NrZJUR1pnxwL1cD6IPM21mKF+j9ZXoHLuWqCfZPkvzrOWZiEEi4yRmaFB4rBlWcXHQcKsyxi0BVZDnnlavTxXqjXBeMCXRpROS9oE5UpSbryb75gSrsZpnRE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQGP7ln6wCvrNKF9KdLmZxWjANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATgBPAFQARQBCAE8ATwBLAFwATABDAGgAZQBuADEANQAzMB4XDTE5MDExNjAyNDQzMFoXDTIwMDExNjA4NDQzMFowLTErMCkGA1UEAx4iAE4ATwBUAEUAQgBPAE8ASwBcAEwAQwBoAGUAbgAxADUAMzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAq9OuAwrx7E+Kj0bvRPfPr46/UbNUxhSqsDVa2Uju+P1vkefm7G3NrZJUR1pnxwL1cD6IPM21mKF+j9ZXoHLuWqCfZPkvzrOWZiEEi4yRmaFB4rBlWcXHQcKsyxi0BVZDnnlavTxXqjXBeMCXRpROS9oE5UpSbryb75gSrsZpnRECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCnEvGOyZAklytwlWF0J4qfwnK3/gVB7G5LHAyoOCRDaf84Bs2QtF2S63l4JgtcnlcwpRUMJZfn6uLwcX6GubKv8LHfnH5XBV8hJbxanG1zz6DRBY2vws7YdbaeOXKY9JBWC/Q8x+lS6mXeucIl9yI+ANXZpT87xHJomxRfNui/TA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
